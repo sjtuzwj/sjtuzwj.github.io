@@ -5,10 +5,10 @@ A naive schema of resume. Formal version will be written in LaTex.
 Programming Language   
 - **Familiar** C++
 - **Usage** Python R Java Typescript C
-- **Knowledge** Golang
+- **Knowledge** Golang   
 Tool   
 - **Write** LaTex
-- **Visualization** Echarts 
+- **Visualization** Echarts    
 Others   
 - Mathematical Modeling
 - Design Pattern
@@ -28,7 +28,7 @@ I am the modeler and programmer in the team. C is designed to model Opioid Crisi
 A column to share knowledgement from papers, courses and books. Over 250 Followers.
 
 ## Courses
-   
+Only including Major Courses over 95
 Course |Grade | Description
 --|:--:|--:
 Programing Design Method|98|3‰
