@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Zhu Wenjie's 
+A naive schema of resume. Formal version will be written in LaTex.
 
-You can use the [editor on GitHub](https://github.com/sjtuzwj/sjtuzwj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Skills
+### Programming Language
+- **Familiar** C++
+- **Usage** Python R Java Typescript C
+- **Knowledge** Golang
+### Tool
+- **Write** LaTex
+- **Visualization** Echarts 
+### Others
+- Mathematical Modeling
+- Design Pattern
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjtuzwj/sjtuzwj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Experience
+### [Course Project:Naive Game CatchaMouse](https://github.com/sjtuzwj/Catcha-Mouse)
+An C++ project to devlop a 2D game in cocos2D. I try about ten design patterns although some of them are overdesigned and new features（eg. smart pointer,lambda,enum class,auto） introduced by modern C++. This project get the highest grade in the final reply and 95 totally.
+### [Course Project:SJTU Jiaojiao](https://github.com/sjtuzwj/SJTU-JiaoJiao)
+A component of an trading platform based on micro service. A Typescript frontend is used to analyze data. This project get 93. 
+### [PRP Research:XRD Clustering]
+A cross-disciplinary project in Python and JS, use material XRD data to cluster without other knowledgement in python, and finally visualized by js. I was working this with a master Liu Wei,CS,SJTU.
+### [Competition:ChinaVis](http://www.chinavis.org/2019/challenge.html)
+A js project to detect exceptions in a meeting. I did it in the Fan Xi group and work for clustering. Honorable Mention.
+### [Competition:MCM](https://www.zhihu.com/question/320759894/answer/656496386)
+I am the modeler and programmer in the team. C is designed to model Opioid Crisis. For more information, see the link.
+### [Writing:Zhihu Column](https://zhuanlan.zhihu.com/c_1039197804748595200)
+A column to share knowledgement from papers, courses and books. Over 250 Followers.
